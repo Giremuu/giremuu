@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Gire
 
-<!--
-**Giremuu/giremuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student in cybersecurity
+🔵 Cybersecurity | Infrastructure & Networking | Automation (Terraform / Ansible) | Cloud (AWS)
+☁️ Interested in Japan and tech culture 
 
-Here are some ideas to get you started:
+## What I do
+- Linux (Debian / Ubuntu) and Windows Server system administration
+- Infrastructure automation and deployment with Terraform & Ansible
+- Hardening, audits and post-incident analysis (logs EDR)
+- Homelab & monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+`Linux & Windows` · `Ansible` · `Docker` · `Networking` · `Git` · `Security` · `Terraform` · `Ansible` · `Monitoring`
+
+## Other
+📂 This GitHub contains all my automation and security-related personal projects.
+📫 Contact: Reach me on LinkedIn (DMs open)
+
+## Fun Facts:
+- Love Dark Souls trilogy / Elden Ring
+- I don't like coffee or smoke
+- Chainsaw Man and Oshi No Ko are my favorite manga/anime
