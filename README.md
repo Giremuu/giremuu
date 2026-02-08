@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Gire
 
 🎓 IT student in cybersecurity
+
 🔵 Cybersecurity | Infrastructure & Networking | Automation (Terraform / Ansible) | Cloud (AWS)
+
 ☁️ Interested in Japan and tech culture 
 
 ## What I do
@@ -15,6 +17,7 @@
 
 ## Other
 📂 This GitHub contains all my automation and security-related personal projects.
+
 📫 Contact: Reach me on LinkedIn (DMs open)
 
 ## Fun Facts:
