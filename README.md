@@ -23,4 +23,4 @@
 ## Fun Facts:
 - Love Dark Souls trilogy / Elden Ring
 - I don't like coffee or smoke
-- Chainsaw Man and Oshi No Ko are my favorite manga/anime
+- Chainsaw Man and Frieren are my favorite manga/anime
