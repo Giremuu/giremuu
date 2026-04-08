@@ -13,7 +13,7 @@
 - Homelab & monitoring
 
 ## Tech
-`Linux & Windows` · `Ansible` · `Docker` · `Networking` · `Git` · `Security` · `Terraform` · `Ansible` · `Monitoring`
+`Linux & Windows` · `Ansible` · `Docker` · `Networking` · `Git` · `Security` · `Terraform` · `Monitoring`
 
 ## Other
 📂 This GitHub contains all my automation and security-related personal projects.
