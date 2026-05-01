@@ -36,5 +36,5 @@ Currently finishing a Professional Bachelor in IT / Cybersecurity (IIA Saint-Naz
 
 ## Beside the tech
 
-I love video games like Dark Souls' trilogy / Elden Ring
+I love video games like Dark Souls' trilogy / Elden Ring and
 I watch animes / read manga too like Chainsaw Man, Frieren or Fate
