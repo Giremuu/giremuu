@@ -30,7 +30,6 @@ Currently finishing a Professional Bachelor in IT / Cybersecurity (IIA Saint-Naz
 
 ## Contact
 
-- Mail: glegallic1303@gmail.com
 - LinkedIn: [linkedin.com/in/gwilherm-le-gallic](https://fr.linkedin.com/in/gwilherm-le-gallic)
 
 ---
