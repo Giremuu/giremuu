@@ -1,4 +1,4 @@
-# Gwilherm "Giremuu" LE GALLIC
+Giremuu
 
 Sysadmin and DevOps Junior - looking for a permanent position starting October 2026.
 
